@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+*.zip
+*.dmg
+*.iso
+*.bin
+*.exe
+*.mp4
+*.log
+.env

@@ -1,0 +1,16 @@
+Welcome to your SNSX live session.
+
+Useful places:
+
+- /home      personal files for this boot session
+- /docs      reference notes bundled in the ISO
+- /bin       small runnable demo programs
+
+Try these commands:
+
+pwd
+ls
+tree /
+files
+calc 12 * (7 - 3)
+edit /home/NOTES.TXT

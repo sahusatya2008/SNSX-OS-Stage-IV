@@ -1,0 +1,16 @@
+SNSX in VirtualBox
+
+1. Create a new virtual machine.
+2. Type: Other
+3. Version: Other/Unknown
+4. Memory: 512 MB or higher
+5. Open Settings -> Storage
+6. Attach SNSX.iso to the optical drive
+7. Start the machine
+
+Once booted inside SNSX:
+
+- files
+- calc
+- edit /home/NOTES.TXT
+- run /bin/hello.app

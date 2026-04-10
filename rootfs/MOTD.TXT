@@ -1,0 +1,4 @@
+Welcome to SNSX.
+This live build includes a writable RAM filesystem, a file manager app,
+a calculator app, a text editor app, keyboard IRQ input, PIT timing,
+ATA probing, and flat-binary program loading through the shell.

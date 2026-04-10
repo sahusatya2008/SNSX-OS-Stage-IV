@@ -1,0 +1,7 @@
+SNSX Notes
+==========
+
+This file is meant to be edited from inside SNSX.
+Open it with:
+
+edit /home/NOTES.TXT
