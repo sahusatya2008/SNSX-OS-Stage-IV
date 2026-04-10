@@ -747,4 +747,6 @@ The following now build successfully:
 - `SNSX-VBox-ARM64.iso`
 
 The ARM64 VirtualBox edition was also boot-tested under AArch64 UEFI in QEMU before being handed off as the VirtualBox target.
-# SNSX-OS-Stage-IV
+## Developer & Note
+- Satya Narayan Sahu
+- This OS version and relational versions and projects are totally owned by Satya Narayan Sahu and doesn't allows other to download and copy and mofidy and go for any commercial release, its only for educational purpose and the user/developer can only copy and do anything after he/she gives the fees and take license to work on it from Satya Narayan Sahu.
